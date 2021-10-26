@@ -2,7 +2,7 @@ package onlineflightbooking.com;
 
 import java.time.LocalDateTime;
 
-public class abstract Ticket {
+public abstract class Ticket {
 	  private String pnr;
 	    private String from;
 	    private String to;
